@@ -1,4 +1,4 @@
-baseURL = 'pleksa.ga'
+baseURL = '//pleksa.ga/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "papermod"
